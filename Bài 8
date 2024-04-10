@@ -33,8 +33,6 @@ int totalSum = 0;
     if (leftSum == rightSum) {
       return "YES";
     }
-
-    
     leftSum += arr[i];
   }
 
